@@ -18,6 +18,5 @@
 1. Brinjal
 2. cabbage
 3. drum stick
-
-   1   drumstick1
-   2   drumstick2
+   1  drumstick1
+   2  drumstick2
